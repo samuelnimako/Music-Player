@@ -19,6 +19,17 @@ A simple and interactive music player built with React.js that allows users to b
 
 
 
+<p align="center">
+  <img src="images/screen1.png" width="45%" />
+  <img src="images/screen2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/screen3.png" width="45%" />
+</p>
+
+
+
 
 🎯 How It Works
 	•	Users can browse songs from the All Songs section
