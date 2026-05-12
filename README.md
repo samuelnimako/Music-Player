@@ -20,7 +20,7 @@ A simple and interactive music player built with React.js that allows users to b
 
 
 <p align="center">
-  <img src="images/screen1.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 004801.png" width="45%" />
   <img src="images/screen2.png" width="45%" />
 </p>
 
